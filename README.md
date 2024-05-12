@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Yuan CHEN!  
   
 
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/am4ever" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/YuanCHEN_AG" target="_blank">
