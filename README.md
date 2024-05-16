@@ -22,10 +22,10 @@ Looking forward to exchanging ideas with you.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Decision Planning in Reinforcement Learning.  
+- 🌱 I’m currently learning Decision Planning by Reinforcement Learning.  
   
 
-- ❓ Ask me about anything related to LLMs.  
+- ❓ Ask me about anything related to LLMs and data science.  
   
 
 - 🔭 If you have any needs, please feel free to contact me at [ychen151@connect.hkust-gz.edu.cn].  
